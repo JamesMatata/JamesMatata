@@ -39,24 +39,12 @@ I'm a **backend developer** and **Mathematics & Computer Science student** passi
 
 ## 📂 Featured Projects
 
-### ⚡ QuickWrite – Chrome Extension  
-AI-powered writing assistant for emails, posts, and summaries with M-Pesa & PayPal integration.  
-**Tech:** JavaScript, Django, OpenAI API  
-🔗 [View Project](https://github.com/JamesMatata/quickwrite)
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| ⚡ **QuickWrite** | AI writing assistant for email/posts with M-Pesa & PayPal. | JavaScript, Django, OpenAI API | [🔗 View](https://github.com/JamesMatata/quickwrite) |
+| 🛒 **GigaMart** | Online shop with WhatsApp chat & responsive design. | Django, JavaScript | [🔗 View](https://github.com/JamesMatata/gigamart) |
+| 📚 **Socrate** | AI study partner for chatting with your own files. | Django, Channels, Azure, OpenAI, PyMuPDF | [🔗 View](https://github.com/JamesMatata/socrate) |
 
----
-
-### 🛒 GigaMart – E-commerce Platform  
-Online shopping app with WhatsApp-based communication & full mobile responsiveness.  
-**Tech:** Django, JavaScript  
-🔗 [View Project](https://github.com/JamesMatata/gigamart)
-
----
-
-### 📚 Socrate – AI Study Assistant  
-Upload content (PDFs, videos, audio) and chat with an AI study partner in real time.  
-**Tech:** Django, Channels, OpenAI, PyMuPDF, Azure Speech, Hugging Face  
-🔗 [View Project](https://github.com/JamesMatata/socrate)
 
 ---
 
@@ -69,7 +57,7 @@ Upload content (PDFs, videos, audio) and chat with an AI study partner in real t
 
 ## 📬 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/james-mule-04b7702b2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
