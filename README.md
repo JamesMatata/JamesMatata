@@ -24,13 +24,16 @@ I'm a **backend developer** and **Mathematics & Computer Science student** passi
 **Design:** Figma  
 **Other:** Linux, Networking Basics
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=flat&logo=qt)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -57,15 +60,6 @@ Upload content (PDFs, videos, audio) and chat with an AI study partner in real t
 
 ---
 
-## 💼 Experience
-
-**Backend Developer Intern @ DukaTech**  
-*Sept 2024 – Dec 2024*  
-- Built scalable Django APIs and optimized backend processes  
-- Collaborated with frontend teams and handled debugging + Git version control
-
----
-
 ## 📈 GitHub Stats
 
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesMatata&show_icons=true&theme=tokyonight)
@@ -75,9 +69,18 @@ Upload content (PDFs, videos, audio) and chat with an AI study partner in real t
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jamesmatatamule@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JamesMatata)
+<p align="center">
+  <a href="https://www.linkedin.com/in/james-mule-04b7702b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:jamesmatatamule@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-MailMe-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/JamesMatata">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
 
 ---
 
